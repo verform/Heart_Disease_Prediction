@@ -1,4 +1,15 @@
 # Heart_Disease_Prediction
+
+# Problem Definition:
+ Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+ 
+ # Data:
+ The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
+
+There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
+
+
+
 This is a binary classification problem 
 
 **Steps I followed:**
@@ -30,11 +41,5 @@ This is a binary classification problem
     
  *Feature Importance
  
- **Problem Definition:**
- Given clinical parameters about a patient, can we predict whether or not they have heart disease?
  
- **Data:**
- The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
-
-There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
 
